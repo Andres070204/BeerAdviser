@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asesor </string>
+    <string name="find_beer">¡Encontrar !</string>
+    <string name="brands">No se han seleccionado productos</string>
+    <string-array name="beer_colors">
+        <item>Mercancías Sólidas</item>
+        <item>Productos Agrícolas</item>
+        <item>Líquidos</item>
+    </string-array>
+    <string-array name="beers">
+        <item>Ladrillos, Muebles, Electrónicos, Materiales de Construcción</item>
+        <item>Trigo , Arroz , Manzanas  Tomates </item>
+        <item>Agua, Gasolina, Petróleo, Leche</item>
+    </string-array>
+</resources>
